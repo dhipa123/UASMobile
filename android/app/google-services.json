@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739754164605",
+    "project_id": "siakad-dosen",
+    "storage_bucket": "siakad-dosen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739754164605:android:cff0c3fb7a15efc5744c14",
+        "android_client_info": {
+          "package_name": "com.example.project_siakad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739754164605-k6s23nqeo369ra2cm4ek6dehohkj1p3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfg8A6Wt5LSlpcGPdCCi_l5E65b8ldfz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739754164605-k6s23nqeo369ra2cm4ek6dehohkj1p3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
